@@ -1,0 +1,9 @@
+transformers>=4.40.0
+torch>=2.2.0
+accelerate>=0.30.0
+sentencepiece
+safetensors
+# Optional (for GPU acceleration)
+bitsandbytes
+# Optional (for demo or prototyping)
+jupyter
